@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "775743736819",
+    "firebase_url": "https://ascendandroid7.firebaseio.com",
+    "project_id": "ascendandroid7",
+    "storage_bucket": "ascendandroid7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775743736819:android:0c351bdd9293f68c",
+        "android_client_info": {
+          "package_name": "org.kaustubh.ascendandroid7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775743736819-ik64uhbg80m2rt3knml663iuttcb1emb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.kaustubh.ascendandroid7",
+            "certificate_hash": "8f3e919e6691c9a3bf34a7b56c7df23165462c88"
+          }
+        },
+        {
+          "client_id": "775743736819-5trhioler2k4v6ek4elkc623tlk7itjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnDqLmTlQFPxWgZsVlFfUCU6DlNCdeYq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775743736819-5trhioler2k4v6ek4elkc623tlk7itjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
